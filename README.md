@@ -43,7 +43,7 @@ Create Sentinel Workbook and run query:  <br/>
 <img src="https://i.imgur.com/oBO4XYk.jpg"/>
 <br />
 <br />
-Failed RDP World Map:  <br/>
+Map of failed login attempts:  <br/>
 <img src="https://i.imgur.com/UMWEi6t.jpg"/>
 </p>
 
