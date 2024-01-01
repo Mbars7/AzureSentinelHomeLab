@@ -43,10 +43,6 @@ Running custom PowerShell script:  <br/>
 <br />
 Create Sentinel Workbook and run query:  <br/>
 <img src="https://i.imgur.com/oBO4XYk.jpg"/>
-<br />
-<br />
-Map of failed login attempts:  <br/>
-<img src="https://i.imgur.com/UMWEi6t.jpg"/>
 </p>
 
 <!--
