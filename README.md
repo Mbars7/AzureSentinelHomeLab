@@ -1,6 +1,6 @@
 <h1>Azure Sentinel Home Lab</h1>
 <p align="center">
- <img src="https://i.imgur.com/qvjVGw2.jpg"/>
+ <img src="https://i.imgur.com/CGAdkfg.jpg"/>
 </p>
 
 <h2>Description</h2>
