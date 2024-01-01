@@ -10,8 +10,7 @@
 - Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.<br>
 
 <h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
+- <b>PowerShell</b><br>
 - <b>Sentinel</b>
 
 <h2>Environments Used </h2>
