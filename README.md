@@ -1,5 +1,7 @@
 <h1>Azure Sentinel Home Lab</h1>
-
+<p align="center">
+ <img src="https://i.imgur.com/qvjVGw2.jpg"/>
+</p>
 
 <h2>Description</h2>
 - Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third-party API to derive geolocation data. <br>
