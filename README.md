@@ -20,31 +20,31 @@
 
 <p align="center">
 Azure VM Deployment: <br/>
-<img src="https://i.imgur.com/3Rl2sXq.jpg"/>
+<img src="https://i.imgur.com/JVpbB3D.jpg"/>
 <br />
 <br />
 Configuring firewall wide open:  <br/>
-<img src="https://i.imgur.com/AiEnuDg.jpg"/>
+<img src="https://i.imgur.com/USYAcCN.jpg"/>
 <br />
 <br />
 Remotely connecting to VM: <br/>
-<img src="https://i.imgur.com/xD8g4ex.jpg"/>
+<img src="https://i.imgur.com/dsqmSjf.jpg"/>
 <br />
 <br />
 Making VM vulnerable:  <br/>
-<img src="https://i.imgur.com/iEIwJam.jpg"/>
+<img src="https://i.imgur.com/DP8B4TJ.jpg"/>
 <br />
 <br />
 Running custom PowerShell script:  <br/>
-<img src="https://i.imgur.com/zzRBcvW.jpg"/>
+<img src="https://i.imgur.com/A3S3nTx.jpg"/>
 <br />
 <br />
-Active Directory Computers:  <br/>
-<img src="https://i.imgur.com/zEnop5P.jpg"/>
+Create Sentinel Workbook and run query:  <br/>
+<img src="https://i.imgur.com/oBO4XYk.jpg"/>
 <br />
 <br />
-Client Login:  <br/>
-<img src="https://i.imgur.com/jQGki5m.jpg"/>
+Failed RDP World Map:  <br/>
+<img src="https://i.imgur.com/UMWEi6t.jpg"/>
 </p>
 
 <!--
