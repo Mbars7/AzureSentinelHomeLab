@@ -1,4 +1,3 @@
-# AzureSentinelHomeLab
 <h1>Azure Sentinel Home Lab</h1>
 
 
@@ -11,18 +10,17 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Azure</b>
 - <b>Sentinel</b>
 
 <h2>Environments Used </h2>
-
+- <b>Azure</b><br>
 - <b>Windows 10</b> (22H2)
 
 <h2>Project Snapshots:</h2>
 
 <p align="center">
-Oracle VM VirtualBox: <br/>
-<img src="https://i.imgur.com/AL0Ssgs.jpg"/>
+Azure VM Deployment: <br/>
+<img src="https://i.imgur.com/3Rl2sXq.jpg"/>
 <br />
 <br />
 Installed Server Roles:  <br/>
