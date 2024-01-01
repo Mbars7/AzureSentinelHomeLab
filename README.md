@@ -23,20 +23,20 @@ Azure VM Deployment: <br/>
 <img src="https://i.imgur.com/3Rl2sXq.jpg"/>
 <br />
 <br />
-Installed Server Roles:  <br/>
-<img src="https://i.imgur.com/C7cVUsC.jpg"/>
+Configuring firewall wide open:  <br/>
+<img src="https://i.imgur.com/AiEnuDg.jpg"/>
 <br />
 <br />
-IP Settings: <br/>
-<img src="https://i.imgur.com/zcGL1Q5.jpg"/>
+Remotely connecting to VM: <br/>
+<img src="https://i.imgur.com/xD8g4ex.jpg"/>
 <br />
 <br />
-DHCP Setup:  <br/>
-<img src="https://i.imgur.com/rVYLS25.jpg"/>
+Making VM vulnerable:  <br/>
+<img src="https://i.imgur.com/iEIwJam.jpg"/>
 <br />
 <br />
-Active Directory Users:  <br/>
-<img src="https://i.imgur.com/xIVkb0N.jpg"/>
+Running custom PowerShell script:  <br/>
+<img src="https://i.imgur.com/zzRBcvW.jpg"/>
 <br />
 <br />
 Active Directory Computers:  <br/>
