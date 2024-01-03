@@ -4,10 +4,13 @@
 </p>
 
 <h2>Description</h2>
+In this lab, I started by signing up for an Azure subscription and creating a Virtual Machine (VM) and Log Analytics Workspace (LAW). The VM and LAW had to be connected and the VM firewall needed to be configured with a rule to allow all incoming traffic.  Next, I set up Azure Sentinel and remotely logged into the Windows VM I had created to turn off the local firewall.  At this point, I used PowerShell to run a script through a Geolocation API to find the origins of incoming RDP brute force attacks.  Finally, I created a custom log in the LAW to acquire data from the VM and map out the attacks through a map in Sentinel.<br><BR>
+
+
 - Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third-party API to derive geolocation data. <br>
 - Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, state/province, and country)<br>
 - Configured custom fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel<br>
-- Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.<br>
+- Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on the world map according to physical location and magnitude of attacks.<br>
 
 <h2>Languages and Utilities Used</h2>
 - <b>PowerShell</b><br>
