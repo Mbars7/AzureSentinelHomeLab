@@ -47,7 +47,7 @@ Create Sentinel Workbook and run query:  <br/>
 <img src="https://i.imgur.com/oBO4XYk.jpg"/>
 </p>
 
-Credit: Josh Madakor
+Credit: [Josh Madakor](https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=2726&ab_channel=JoshMadakor)
 
 <!--
  ```diff
