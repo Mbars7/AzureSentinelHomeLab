@@ -47,6 +47,8 @@ Create Sentinel Workbook and run query:  <br/>
 <img src="https://i.imgur.com/oBO4XYk.jpg"/>
 </p>
 
+Credit: Josh Madakor
+
 <!--
  ```diff
 - text in red
